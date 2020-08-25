@@ -1,0 +1,3 @@
+module SightingsHelper
+    
+end
